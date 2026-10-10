@@ -27,5 +27,8 @@ class BookStoreRequest extends FormRequest
     "author"=>['required','string'],
     "publication_year"=>['required','numeric','min:1900','max:2026']
         ];
+
+
+        ////jghghfhgi
     }
 }
